@@ -1,0 +1,1 @@
+text_list = ['x','xxx','xxxxx','xxxxxxx','']

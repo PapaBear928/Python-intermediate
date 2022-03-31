@@ -1,0 +1,4 @@
+class BITException(Exception):
+	pass
+
+
